@@ -8,6 +8,7 @@ __pycache__/
 # Virtualenv
 venv/
 ENV/
+env/
 
 # Django stuff
 # db.sqlite3
